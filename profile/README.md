@@ -49,4 +49,4 @@ At the beginning of the semester, Bootcampers should fork the `bootcamp-s23` rep
 	- create a main branch
 	- push changes
 
-Bootcampers now have their very own repo in the organization where they can push their code to. Bootcampers should also frequently Sync Fork to make sure they have up-to-date exercises and projects. 
+Bootcampers now have their very own repo in the organization where they can push their code to. Bootcampers should also frequently **Sync Fork** to make sure they have up-to-date exercises and projects. 
